@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "g:/DSA_6/ASSIGNMENT/DSA-6_KetanMahajan_2026/LINKEDLIST/ASSIGNMENT01",
       "program": "g:/DSA_6/ASSIGNMENT/DSA-6_KetanMahajan_2026/LINKEDLIST/ASSIGNMENT01/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/Ketan/OneDrive/Desktop/dsa",
+      "program": "c:/Users/Ketan/OneDrive/Desktop/dsa/build/Debug/outDebug",
+>>>>>>> 363973bd983336c6aa1af2c5736761124e4b7b97
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
